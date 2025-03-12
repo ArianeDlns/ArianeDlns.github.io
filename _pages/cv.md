@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
+
 * M.Sc. in Artificial Intelligence, Ecole Centrale Paris, 2022
 * MiM, ESSEC Business School, Paris/Singapore 2022
 * CPGE in Engineering, Collège Stanislas, 2017
 
-
 Work experience
 ======
+
 * **Jan. 2022 – present: BCG GAMMA - Data Scientist**
 
 * **May – Dec. 2022: BCG GAMMA - Visiting Data Scientist**
@@ -37,8 +38,31 @@ customers based on transactions and Google Analytics data
 * **Jan. – June 2020: ESSEC Business School - Research Assistant**
   * Developed an *automated data collection and cleaning tool* to extract information from over 20,000 semi-structured brokers' reports, using pandas, Tesseract and Google APIs
 
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
+Work experience
+======
+
+* Spring 2024: Academic Pages Collaborator
+  * GitHub University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
+
+* Fall 2015: Research Assistant
+  * GitHub University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* Summer 2015: Research Assistant
+  * GitHub University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+  
 Skills
 ======
+
 * **Machine learning**
   * pandas & numpy
   * Scikit Learn
@@ -64,4 +88,6 @@ Skills
 
 CV
 ======
+
 [English] - [Download](https://arianedlns.github.io/files/CV_Ariane_Dalens_en_US.pdf)
+  
