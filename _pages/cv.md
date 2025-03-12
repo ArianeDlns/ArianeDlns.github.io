@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 
@@ -19,7 +17,11 @@ Education
 Work experience
 ======
 
-* **Jan. 2022 – present: BCG GAMMA - Data Scientist**
+* **Jan. 2022 – present: BCG X - Senior Data Scientist**
+  * Specialized in *AI and Machine Learning* for *Social Impact*, *Climate & Sustainability* and *Energy* projects
+  * Deployed several *GeoAnalytics* tools for public and private clients to help them understand their exposure to climate risks and optimize their adaptation and resilience strategies
+  * Developed a patent-pending *Optimization* tool to help a major energy company design its Power-to-X strategy
+  * Supported a National Energy Transition Plan for an Asian country by developing the *analytic backbone* to simulate the impact of different energy policies on the country's energy mix, carbon emissions and macroeconomic indicators
 
 * **May – Dec. 2022: BCG GAMMA - Visiting Data Scientist**
   * Development of an *Advanced Analytics* pilot for a luxury brand aiming at personalizing the multi touchpoint customer experience
@@ -38,47 +40,26 @@ customers based on transactions and Google Analytics data
 * **Jan. – June 2020: ESSEC Business School - Research Assistant**
   * Developed an *automated data collection and cleaning tool* to extract information from over 20,000 semi-structured brokers' reports, using pandas, Tesseract and Google APIs
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 
 * **Machine learning**
-  * pandas & numpy
-  * Scikit Learn
-  * Tensorflow
-  * Keras
+  * pandas, numpy, scikit-learn, XGBoost, TensorFlow, PyTorch
+  * Time series forecasting (ARIMA, Prophet, LSTM)
+  * Optimization (OR-Tools, pyomo, Gurobi)
+  * Geo-spatial analysis (Folium, Geopandas, Xarray)
 
 * **Programming languages**
-  * Python
-  * R
-  * SQL
+  * Python, R, SQL
   * LaTeX
 
 * **Cloud computing**
+  * Azure ML ([Microsoft Certified : Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/dalensariane/credentials/5d383408175e1b84))
   * Google Cloud Platform
   * AWS
-  * AirFlow
+
+* **Data engineering**
+  * ETL pipelines (Airflow)
 
 * **Data visualization**
   * Matplotlib
@@ -90,4 +71,3 @@ CV
 ======
 
 [English] - [Download](https://arianedlns.github.io/files/CV_Ariane_Dalens_en_US.pdf)
-  
