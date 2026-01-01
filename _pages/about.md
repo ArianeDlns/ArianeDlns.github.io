@@ -2,7 +2,7 @@
 permalink: /
 title: "Home"
 excerpt: "About me"
-title: "Curriculum vitæ"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,7 @@ Work experience
 ======
 
 * **Jan. 2022 – present: BCG X - Senior Data Scientist**
-  * Core member of the **AI/ML teams** in **Social Impact, Climate & Sustainability, and Energy**, delivering data-driven solutions for global clients
+  * Core member of the *AI/ML teams* in *Social Impact, Climate & Sustainability, and Energy**, delivering data-driven solutions for global clients
   * Deployed several *GeoAnalytics* tools for public and private clients to help them understand their exposure to climate risks and optimize their adaptation and resilience strategies
   * Developed a patent-pending *Optimization* tool to help a major energy company design its Power-to-X strategy
   * Supported a National Energy Transition Plan for an Asian country by developing the *analytic backbone* to simulate the impact of different energy policies on the country's energy mix, carbon emissions and macroeconomic indicators
