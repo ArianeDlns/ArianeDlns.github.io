@@ -19,7 +19,7 @@ feature_row:
     btn_class: "btn--primary"
   - title: "Patent"
     excerpt: "US 12,711,433 on Power-to-X plants."
-    url: "/publication/2026-08-18-power-to-x-optimization-patent/"
+    url: "/publications/2026-08-18-power-to-x-optimization-patent/"
     btn_label: "Read the patent"
     btn_class: "btn--primary"
 ---

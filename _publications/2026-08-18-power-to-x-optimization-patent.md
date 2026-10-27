@@ -2,7 +2,9 @@
 title: "Systems and techniques for optimizing the implementation and operation of Power-to-X plants"
 collection: publications
 category: patents
-permalink: /publication/2026-08-18-power-to-x-optimization-patent
+permalink: /publications/2026-08-18-power-to-x-optimization-patent
+redirect_from:
+  - /publication/2026-08-18-power-to-x-optimization-patent/
 excerpt: 'Granted US patent for a system that uses Bayesian optimization to select configurations for implementing and operating a Power-to-X plant.'
 date: 2026-08-18
 venue: 'U.S. Patent No. 12,711,433'
