@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Ariane, and I lead Applied AI at BCG X.
+I’m Ariane, working as Lead Applied AI at BCG X.
 {: .home-intro}
 
 My work focuses on climate risk and the energy transition: mapping exposure to climate hazards, optimizing energy systems, and modelling the effects of energy policy.
