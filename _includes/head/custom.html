@@ -29,61 +29,6 @@
     }
   }
 
-  .home-picks {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 0.9rem;
-    margin: 1.75rem 0 0.5rem;
-  }
-
-  @media (min-width: 768px) {
-    .home-picks {
-      grid-template-columns: repeat(3, minmax(0, 1fr));
-      gap: 1rem;
-    }
-  }
-
-  .page__content a.home-pick,
-  .page__content a.home-pick:hover {
-    display: flex;
-    flex-direction: column;
-    gap: 0.4rem;
-    height: 100%;
-    margin: 0;
-    padding: 1.05rem 1.1rem 1.2rem;
-    border: 1px solid var(--global-border-color);
-    border-top: 3px solid var(--global-base-color);
-    border-radius: 4px;
-    color: var(--global-text-color);
-    text-decoration: none;
-    box-sizing: border-box;
-  }
-
-  .page__content a.home-pick:hover {
-    border-color: var(--global-base-color);
-  }
-
-  .home-pick__kicker {
-    font-family: inherit;
-    font-size: 0.75rem;
-    font-weight: 700;
-    letter-spacing: 0.06em;
-    text-transform: uppercase;
-    color: var(--global-link-color);
-  }
-
-  .home-pick__title {
-    font-size: 1.15rem;
-    font-weight: 700;
-    line-height: 1.25;
-  }
-
-  .home-pick__text {
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.45;
-  }
-
   figure.app-shots {
     justify-content: center;
     gap: 0.75em;
