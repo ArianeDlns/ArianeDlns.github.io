@@ -7,9 +7,6 @@ collection: portfolio
 [![Open in Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.dev/ArianeDlns/Illuin-project/tree/main)
 [![GitHub commit](https://badgen.net/github/last-commit/ArianeDlns/Illuin-project/main)](https://GitHub.com/ArianeDlns/Illuin-project/commits/main)
 
-**Watch out!** WIP
-{: .notice}
-
 This project features the usage of NLP for question answering
 
 This project is a personal project to learn how to use NLP for question answering. The dataset used is [SQuAD](https://deepai.org/dataset/squad) from Stanford. The model used is [BERT](https://arxiv.org/abs/1810.04805) from Google.

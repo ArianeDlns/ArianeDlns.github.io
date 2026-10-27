@@ -6,9 +6,6 @@ collection: portfolio
 [![Open in Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.dev/ArianeDlns/portfolio/tree/main)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3139ffea-6c1f-4fcf-a69c-527fd01e51ac/deploy-status)](https://app.netlify.com/sites/arianedlns/deploys)
 
-**Watch out!** WIP
-{: .notice}
-
 This project is a personal portfolio with my photography from around the world
 It is built with [Hugo](https://gohugo.io/) and deployed with [Netlify](https://www.netlify.com/). 
 

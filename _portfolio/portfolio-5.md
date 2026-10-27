@@ -8,9 +8,6 @@ collection: portfolio
 [![GitHub commit](https://badgen.net/github/last-commit/ArianeDlns/MAS-practice/master)](https://GitHub.com/ArianeDlns/MAS-practice/commits/master)
 
 
-**Watch out!** WIP
-{: .notice}
-
 This project is a multi-agent simulation of the prey and predator game
 The implementation is based on the [mesa](https://mesa.readthedocs.io/en/stable/) example that we can find in this [repository](https://github.com/projectmesa/mesa/tree/main/examples/wolf_sheep). Equilibrium is based on the equations of the [Lotka-Volterra model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations).
 

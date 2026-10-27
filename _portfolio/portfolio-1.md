@@ -8,9 +8,6 @@ collection: portfolio
 [![GitHub commit](https://badgen.net/github/last-commit/ArianeDlns/chatbot-presidentielle2022/main)](https://GitHub.com/ArianeDlns/chatbot-presidentielle2022/commits/main)
 [![GitHub issues](https://badgen.net/github/open-issues/ArianeDlns/chatbot-presidentielle2022)](https://GitHub.com/ArianeDlns/chatbot-presidentielle2022/issues/)
 
-**Watch out!** WIP  
-{: .notice}
-
 This project is my end of study project @CentraleSupélec for the French presidential election of 2022.   
 It is a political chatbot built with [Rasa](https://rasa.com/) the image is dockerized and deployed on a VM.  
 Source code is available on [GitHub](https://github.com/ArianeDlns/chatbot-presidentielle2022).   

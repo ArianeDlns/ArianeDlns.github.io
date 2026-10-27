@@ -7,9 +7,6 @@ collection: portfolio
 [![Open in Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.dev/ArianeDlns/DS_EDC_3/tree/main)
 [![GitHub commit](https://badgen.net/github/last-commit/ArianeDlns/DS_EDC_3/main)](https://GitHub.com/ArianeDlns/DS_EDC_3/commits/main)
 
-**Watch out!** WIP
-{: .notice}
-
 This project was a usecase of [OR-Tools](https://developers.google.com/optimization/) for optimization. Goal was to optimize the routes of a fleet of trucks to minimize the distance traveled and the carbon footprint. 
 
 Implementation is in python and the web app is built with [Streamlit](https://streamlit.io/).
