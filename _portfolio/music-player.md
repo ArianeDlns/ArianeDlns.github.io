@@ -1,13 +1,27 @@
 ---
 title: "Harness engineering for an agent-built music player"
-excerpt: "<br/>Personal music stack written with coding agents: a FastAPI service on a Synology NAS and a SwiftUI iOS client, held together by a contract and checks the agent cannot skip.<br><img src='/images/portfolio/music-player-architecture.svg' width='100%' alt='Architecture of the music player: Synology NAS, iPhone app, and Mac, connected over Tailscale.'>"
+excerpt: "<br/><img src='/images/portfolio/music-player-icon.png' width='96' alt='Music player app icon, AI-generated.'><br/>Personal music stack written with coding agents: a FastAPI service on a Synology NAS and a SwiftUI iOS client, held together by a contract and checks the agent cannot skip.<br><img src='/images/portfolio/music-player-architecture.svg' width='100%' alt='Architecture of the music player: Synology NAS, iPhone app, and Mac, connected over Tailscale.'>"
 collection: portfolio
 date: 2026-08-30
 redirect_from:
   - /publications/2026-08-31-harness-engineering-music-player/
 ---
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-swift](https://img.shields.io/badge/Made%20with-Swift-F05138.svg?logo=swift&logoColor=white)](https://www.swift.org/)
+[![Open backend in Cursor](https://img.shields.io/badge/Backend-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://github.com/ArianeDlns/music-player-backend)
+[![Open iOS client in Cursor](https://img.shields.io/badge/iOS-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)](https://github.com/ArianeDlns/MusicPlayer-Client)
+[![Backend last commit](https://img.shields.io/github/last-commit/ArianeDlns/music-player-backend/main?label=backend)](https://github.com/ArianeDlns/music-player-backend/commits/main)
+[![Client last commit](https://img.shields.io/github/last-commit/ArianeDlns/MusicPlayer-Client/main?label=ios)](https://github.com/ArianeDlns/MusicPlayer-Client/commits/main)
+[![Backend issues](https://img.shields.io/github/issues/ArianeDlns/music-player-backend?label=backend%20issues)](https://github.com/ArianeDlns/music-player-backend/issues/)
+[![Client issues](https://img.shields.io/github/issues/ArianeDlns/MusicPlayer-Client?label=ios%20issues)](https://github.com/ArianeDlns/MusicPlayer-Client/issues/)
+
 Personal music player in two repositories: [music-player-backend](https://github.com/ArianeDlns/music-player-backend) and [MusicPlayer-Client](https://github.com/ArianeDlns/MusicPlayer-Client). I designed the harness, then used coding agents to implement it. The NAS is the catalog. The iPhone is an offline mirror. They only meet over HTTP, on Tailscale.
+
+<p align="center">
+<img src="/images/portfolio/music-player-icon.png" width="160" alt="Music player app icon. AI-generated.">
+<br><em>App icon, AI-generated.</em>
+</p>
 
 <p align="center">
 <img src="/images/portfolio/music-player-architecture.svg" width="100%" alt="Architecture of the music player: Synology NAS, iPhone app, and Mac, connected over Tailscale.">
