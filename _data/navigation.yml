@@ -9,13 +9,10 @@
 
 main:
   - title: "CV"
-    url: cv/
+    url: /cv/
 
   - title: "Portfolio"
-    url: portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
-  #- title: "Guide"
-  #   url: markdown/
+    url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/

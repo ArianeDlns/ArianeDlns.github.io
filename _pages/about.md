@@ -12,7 +12,7 @@ redirect_from:
 Summary
 ======
 
-Senior Data Scientist specializing in **AI/ML for Climate, Sustainability, and Energy Transition**. Proven expertise in deploying **geospatial analytics, optimization tools, and generative AI solutions** for public and private sector clients. Certified in **Azure ML** and **Google Cloud Platform**, with a patent pending in energy systems optimization. Passionate about leveraging data science to drive social impact and operational efficiency.
+Senior Data Scientist specializing in **AI/ML for Climate, Sustainability, and Energy Transition**. Proven expertise in deploying **geospatial analytics, optimization tools, and generative AI solutions** for public and private sector clients. Certified in **Azure ML** and **Google Cloud Platform**, with a granted US patent in energy systems optimization. Passionate about leveraging data science to drive social impact and operational efficiency.
 
 Work experience
 ======
@@ -20,7 +20,7 @@ Work experience
 * **Jan. 2022 – present: BCG X - Senior Data Scientist**
   * Core member of the *AI/ML teams* in *Social Impact, Climate & Sustainability, and Energy**, delivering data-driven solutions for global clients
   * Deployed several *GeoAnalytics* tools for public and private clients to help them understand their exposure to climate risks and optimize their adaptation and resilience strategies
-  * Developed a patent-pending *Optimization* tool to help a major energy company design its Power-to-X strategy
+  * Developed a patented *Optimization* tool to help a major energy company design its Power-to-X strategy
   * Supported a National Energy Transition Plan for an Asian country by developing the *analytic backbone* to simulate the impact of different energy policies on the country's energy mix, carbon emissions and macroeconomic indicators
 
 * **May – Dec. 2022: BCG GAMMA - Visiting Data Scientist**
@@ -77,7 +77,7 @@ Skills
 Patents & Certifications
 ======
 
-* **Patent**: ["Systems and techniques for optimizing the implementation and operation of power-to-x plants"](https://patents.google.com/patent/US20250217748A1/) (Pending, US20250217748A1)
+* **Patent**: ["Systems and techniques for optimizing the implementation and operation of Power-to-X plants"](https://patents.google.com/patent/US12711433B2/) (Granted 18 Aug. 2026, US 12,711,433)
 
 * **Certifications**:
   * Microsoft Certified: Azure Data Scientist Associate
