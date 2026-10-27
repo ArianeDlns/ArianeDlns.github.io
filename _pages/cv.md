@@ -12,7 +12,7 @@ redirect_from:
 Summary
 ======
 
-Lead Applied AI at BCG X. I deploy machine learning, geospatial analytics, and optimization systems for climate, sustainability, and energy-transition work, for public and private clients. Certified on Azure ML and Google Cloud. Co-inventor of [US 12,711,433](https://patents.google.com/patent/US12711433B2/), a patent on optimizing Power-to-X plants.
+Lead Applied AI at BCG X. I deploy machine learning, geospatial analytics, and optimization systems for climate, sustainability, and energy-transition work, for public and private clients. I also design harnesses for coding agents: a written contract, invariants, and checks that run outside the prompt. Certified on Azure ML and Google Cloud. Co-inventor of [US 12,711,433](https://patents.google.com/patent/US12711433B2/), a patent on optimizing Power-to-X plants.
 
 Work experience
 ======
@@ -49,7 +49,8 @@ Education
 Skills
 ======
 
-* **Machine learning:** pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch. Forecasting with ARIMA, Prophet, and LSTMs. Optimization with OR-Tools, Pyomo, and Gurobi. Geospatial work with GeoPandas and Xarray. Generative AI with LangChain, LangGraph, and the OpenAI API.
+* **Machine learning:** pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch. Forecasting with ARIMA, Prophet, and LSTMs. Optimization with OR-Tools, Pyomo, and Gurobi. Geospatial work with GeoPandas and Xarray.
+* **Agentic AI:** harnesses for coding agents (contracts, invariants, post-edit hooks, CI aligned with local checks). LangChain, LangGraph, OpenAI API.
 * **Languages:** Python, R, SQL, LaTeX
 * **Cloud:** Azure ML ([Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/dalensariane/credentials/5d383408175e1b84)), Google Cloud ([Professional Machine Learning Engineer](https://www.credly.com/badges/800dbe60-7b1a-480a-8111-8d28dc13c5c3/public_url)), AWS
 * **Engineering:** Airflow, Docker, Kubernetes, GitHub Actions, CircleCI
