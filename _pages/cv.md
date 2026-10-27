@@ -1,87 +1,63 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[Download PDF](/files/CV_Ariane_Dalens_en_US.pdf){: .btn}
+
 Summary
 ======
 
-Lead Applied AI specializing in **AI/ML for Climate, Sustainability, and Energy Transition**. Proven expertise in deploying **geospatial analytics, optimization tools, and generative AI solutions** for public and private sector clients. Certified in **Azure ML** and **Google Cloud Platform**, with a granted US patent in energy systems optimization. Passionate about leveraging data science to drive social impact and operational efficiency.
+Lead Applied AI at BCG X. I deploy machine learning, geospatial analytics, and optimization systems for climate, sustainability, and energy-transition work, for public and private clients. Certified on Azure ML and Google Cloud. Co-inventor of [US 12,711,433](https://patents.google.com/patent/US12711433B2/), a patent on optimizing Power-to-X plants.
 
 Work experience
 ======
 
-* **Jan. 2022 – present: BCG X - Lead Applied AI**
-  * Core member of the *AI/ML teams* in *Social Impact, Climate & Sustainability, and Energy*, delivering data-driven solutions for global clients
-  * Deployed several *GeoAnalytics* tools for public and private clients to help them understand their exposure to climate risks and optimize their adaptation and resilience strategies
-  * Developed a patented *Optimization* tool to help a major energy company design its Power-to-X strategy
-  * Supported a National Energy Transition Plan for an Asian country by developing the *analytic backbone* to simulate the impact of different energy policies on the country's energy mix, carbon emissions and macroeconomic indicators
+* **Jan. 2022 – present: BCG X, Lead Applied AI**
+  * Member of the AI/ML teams for Social Impact, Climate & Sustainability, and Energy
+  * Built geospatial tools that show how exposed a client is to climate risk, and what adaptation is worth doing
+  * Developed the optimization system a major energy company uses to design its Power-to-X strategy, now [US patent 12,711,433](https://patents.google.com/patent/US12711433B2/)
+  * Built the model behind a national energy-transition plan, used to test how policy choices change the energy mix, emissions, and the wider economy
 
-* **May – Dec. 2022: BCG GAMMA - Visiting Data Scientist**
-  * Development of an *Advanced Analytics* pilot for a luxury brand aiming at personalizing the multi touchpoint customer experience
-  * Implemented a  *demand planning pipeline* for a pharmaceutical company with 6+ time series models showing a 10% increase in forecast accuracy
+* **May – Dec. 2022: BCG GAMMA, Visiting Data Scientist**
+  * Piloted personalization across store, web, and clienteling touchpoints for a luxury brand
+  * Built a demand-planning pipeline for a pharmaceutical company, with more than six time-series models and a 10% gain in forecast accuracy
 
-* **Feb. – July 2021: Richemont - Data Scientist Intern**
-  * Creation of a [*scoring model and recommendation engine*](https://cloud.google.com/blog/products/ai-machine-learning/ai-suggestions-serve-a-better-client-experience-at-richemont) for 30m
-customers based on transactions and Google Analytics data
-  * Deployed and automated the solution on *GCP* for integration into the clienteling application
-  * Performed behavioral analysis and *customer segmentation* for two maisons of the group
+* **Feb. – July 2021: Richemont, Data Scientist Intern**
+  * Built a [scoring model and recommendation engine](https://cloud.google.com/blog/products/ai-machine-learning/ai-suggestions-serve-a-better-client-experience-at-richemont) for 30 million customers, from transactions and Google Analytics
+  * Deployed it on Google Cloud and wired it into the clienteling application
+  * Segmented customers for two of the group's maisons
 
-* **Aug. – Feb. 2021: Amazon - Business Intelligence Intern**
-  * Developed a daily *automated report* in python for a full team of 20 developers to monitor data pipelines on AWS
-  * Designed and prioritized projects for the forecasting the global on-time delivery accuracy using ML models
+* **Aug. 2020 – Feb. 2021: Amazon, Business Intelligence Intern**
+  * Shipped a daily Python report so a team of 20 developers could see the health of their AWS data pipelines
+  * Scoped machine-learning work to forecast global on-time delivery
 
-* **Jan. – June 2020: ESSEC Business School - Research Assistant**
-  * Developed an *automated data collection and cleaning tool* to extract information from over 20,000 semi-structured brokers' reports, using pandas, Tesseract and Google APIs
+* **Jan. – June 2020: ESSEC Business School, Research Assistant**
+  * Built a pipeline that collected and cleaned more than 20,000 semi-structured broker reports, using pandas, Tesseract, and Google APIs
 
 Education
 ======
 
 * M.Sc. in Artificial Intelligence, Ecole Centrale Paris, 2022
-* MiM, ESSEC Business School, Paris/Singapore 2022
-* CPGE in Engineering, Collège Stanislas, 2017
+* MiM, ESSEC Business School, Paris and Singapore, 2022
+* CPGE, Collège Stanislas, 2017
 
 Skills
 ======
 
-* **AI & Machine learning**
-  * pandas, numpy, scikit-learn, XGBoost, TensorFlow, PyTorch
-  * Time series forecasting (ARIMA, Prophet, LSTM)
-  * Optimization (OR-Tools, pyomo, Gurobi)
-  * Geo-spatial analysis (geopandas, Xarray)
-  * Generative AI (LangChain, LangGraph, OpenAI, Agentic Workflows)
+* **Machine learning:** pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch. Forecasting with ARIMA, Prophet, and LSTMs. Optimization with OR-Tools, Pyomo, and Gurobi. Geospatial work with GeoPandas and Xarray. Generative AI with LangChain, LangGraph, and the OpenAI API.
+* **Languages:** Python, R, SQL, LaTeX
+* **Cloud:** Azure ML ([Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/dalensariane/credentials/5d383408175e1b84)), Google Cloud ([Professional Machine Learning Engineer](https://www.credly.com/badges/800dbe60-7b1a-480a-8111-8d28dc13c5c3/public_url)), AWS
+* **Engineering:** Airflow, Docker, Kubernetes, GitHub Actions, CircleCI
+* **Visualization:** Matplotlib, Seaborn, Plotly, Dash, Tableau
 
-* **Programming languages**
-  * Python, R, SQL
-  * LaTeX
-
-* **Cloud computing**
-  * Azure ML ([Microsoft Certified : Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/dalensariane/credentials/5d383408175e1b84))
-  * Google Cloud Platform ([Professional Machine Learning Engineer](https://www.credly.com/badges/800dbe60-7b1a-480a-8111-8d28dc13c5c3/public_url))
-  * AWS
-
-* **Data engineering**
-  * ETL pipelines (Airflow)
-  * Docker, Kubernetes
-  * CI/CD (GitHub Actions, CircleCI)
-
-* **Data visualization**
-  * Matplotlib, Seaborn, Plotly/Dash, Tableau
-
-Patents & Certifications
+Patents and certifications
 ======
 
-* **Patent**: ["Systems and techniques for optimizing the implementation and operation of Power-to-X plants"](https://patents.google.com/patent/US12711433B2/) (Granted 18 Aug. 2026, US 12,711,433)
-
-* **Certifications**:
-  * Microsoft Certified: Azure Data Scientist Associate
-  * Google Cloud Professional Machine Learning Engineer
-
-CV
-======
-
-[English] - [Download](https://arianedlns.github.io/files/CV_Ariane_Dalens_en_US.pdf)
+* [Systems and techniques for optimizing the implementation and operation of Power-to-X plants](https://patents.google.com/patent/US12711433B2/). US 12,711,433, granted 18 August 2026.
+* Microsoft Certified: Azure Data Scientist Associate
+* Google Cloud Professional Machine Learning Engineer
