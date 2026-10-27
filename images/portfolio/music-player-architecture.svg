@@ -1,0 +1,55 @@
+<svg width="680" height="540" viewBox="0 0 680 540" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Architecture du lecteur de musique</title>
+<desc>Le NAS Synology heberge l'API FastAPI, le worker d'enrichissement et le stockage. L'iPhone, application Swift native, synchronise le catalogue et miroite les fichiers via Tailscale. Le Mac accede au stockage par SMB.</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#5F5E5A" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+<style>
+text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+.th { font-size: 14px; font-weight: 500; }
+.ts { font-size: 12px; font-weight: 400; }
+.arr { stroke: #5F5E5A; stroke-width: 1.5; fill: none; }
+</style>
+</defs>
+
+<rect x="40" y="40" width="520" height="160" rx="20" fill="#E1F5EE" stroke="#0F6E56" stroke-width="0.5"/>
+<text class="th" x="300" y="68" text-anchor="middle" dominant-baseline="central" fill="#085041">NAS Synology DS920+</text>
+<text class="ts" x="300" y="86" text-anchor="middle" dominant-baseline="central" fill="#0F6E56">source de verite, toujours en ligne</text>
+
+<rect x="60" y="100" width="148" height="76" rx="12" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
+<text class="th" x="134" y="126" text-anchor="middle" dominant-baseline="central" fill="#27500A">API FastAPI</text>
+<text class="ts" x="134" y="148" text-anchor="middle" dominant-baseline="central" fill="#3B6D11">delta et fichiers</text>
+
+<rect x="226" y="100" width="148" height="76" rx="12" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
+<text class="th" x="300" y="126" text-anchor="middle" dominant-baseline="central" fill="#27500A">Worker</text>
+<text class="ts" x="300" y="148" text-anchor="middle" dominant-baseline="central" fill="#3B6D11">librosa et LLM</text>
+
+<rect x="392" y="100" width="148" height="76" rx="12" fill="#EAF3DE" stroke="#3B6D11" stroke-width="0.5"/>
+<text class="th" x="466" y="126" text-anchor="middle" dominant-baseline="central" fill="#27500A">Stockage</text>
+<text class="ts" x="466" y="148" text-anchor="middle" dominant-baseline="central" fill="#3B6D11">/music, catalogue</text>
+
+<line x1="250" y1="205" x2="250" y2="255" class="arr" marker-end="url(#arrow)"/>
+<line x1="350" y1="255" x2="350" y2="205" class="arr" marker-end="url(#arrow)"/>
+<text class="ts" x="300" y="232" text-anchor="middle" dominant-baseline="central" fill="#5F5E5A">Tailscale</text>
+
+<rect x="40" y="260" width="520" height="160" rx="20" fill="#EEEDFE" stroke="#534AB7" stroke-width="0.5"/>
+<text class="th" x="300" y="288" text-anchor="middle" dominant-baseline="central" fill="#3C3489">iPhone, app native Swift</text>
+<text class="ts" x="300" y="306" text-anchor="middle" dominant-baseline="central" fill="#534AB7">autonome hors ligne</text>
+
+<rect x="60" y="320" width="148" height="76" rx="12" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
+<text class="th" x="134" y="346" text-anchor="middle" dominant-baseline="central" fill="#72243E">Sync et cache</text>
+<text class="ts" x="134" y="368" text-anchor="middle" dominant-baseline="central" fill="#993556">miroir 20 Go</text>
+
+<rect x="226" y="320" width="148" height="76" rx="12" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
+<text class="th" x="300" y="346" text-anchor="middle" dominant-baseline="central" fill="#72243E">Moteur audio</text>
+<text class="ts" x="300" y="368" text-anchor="middle" dominant-baseline="central" fill="#993556">AVAudioEngine</text>
+
+<rect x="392" y="320" width="148" height="76" rx="12" fill="#FBEAF0" stroke="#993556" stroke-width="0.5"/>
+<text class="th" x="466" y="346" text-anchor="middle" dominant-baseline="central" fill="#72243E">Playlists</text>
+<text class="ts" x="466" y="368" text-anchor="middle" dominant-baseline="central" fill="#993556">SQL local + LLM</text>
+
+<path d="M560 138 H 600 V 488 H 246" class="arr" marker-end="url(#arrow)"/>
+
+<rect x="40" y="460" width="200" height="56" rx="12" fill="#F1EFE8" stroke="#5F5E5A" stroke-width="0.5"/>
+<text class="th" x="140" y="482" text-anchor="middle" dominant-baseline="central" fill="#2C2C2A">Mac</text>
+<text class="ts" x="140" y="500" text-anchor="middle" dominant-baseline="central" fill="#5F5E5A">SMB + dashboard web</text>
+</svg>
